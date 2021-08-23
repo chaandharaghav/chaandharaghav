@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/chaandha-raghav-465090194/" target="_blank" > <img src="https://github.com/chaandharaghav/chaandharaghav/blob/master/profile-assets/banner.png" width="100%"></a>
+<a href="https://www.linkedin.com/in/chaandha-raghav-465090194/" target="_blank" > <img src="https://github.com/chaandharaghav/chaandharaghav/blob/main/profile-assets/banner.png" width="100%"></a>
 #
 
 A junior at  <a href="https://www.bitsathy.ac.in/" target="_blank" >Bannari Amman Institute of Technology</a>, Tamil Nadu, pursuing bachelor’s degree in Computer Science and Business Systems.
