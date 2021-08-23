@@ -57,7 +57,9 @@ A junior at  <a href="https://www.bitsathy.ac.in/" target="_blank" >Bannari Amma
 **Connect with me:**
 
 <p align="left">
-  <a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/chaandharaghav/" target="blank"><img align="center" src="https://github.com/chaandharaghav/chaandharaghav/blob/main/profile-assets/insta.png" alt="Raaghav's instagram" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chaandha-raghav-465090194/" target="blank"><img align="center" src="https://github.com/chaandharaghav/chaandharaghav/blob/main/profile-assets/linkedin.png" alt="Raaghav's linkedin" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="mailto:chaandharaghav.cb19@bitsathy.ac.in" target="blank"><img align="center" src="https://github.com/chaandharaghav/chaandharaghav/blob/main/profile-assets/gmail.png" alt="Mail to Raaghav" height="40" width="40" /></a> &nbsp;&nbsp;
 
 </p>
 
