@@ -34,7 +34,7 @@ A junior at  <a href="https://www.bitsathy.ac.in/" target="_blank" >Bannari Amma
   <summary> What I have accomplished besides school. </summary>
   <ul>
     <br>
-    <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/Agela%20Yu%20IOS%20Development%20Online%20Bootcamp.pdf" target="_blank" > iOS & Swift - The Complete iOS App Development Bootcamp</a></li>
+    <li><a href="https://www.freecodecamp.org/certification/chaandharaghav/responsive-web-design" target="_blank" > Responsive Web Design - freeCodeCamp.org</a></li>
     <li>🔜</li>
   </ul>
 </details>
@@ -54,7 +54,7 @@ A junior at  <a href="https://www.bitsathy.ac.in/" target="_blank" >Bannari Amma
 </p>
 
 
-**Connect with me:**
+**Connect me:**
 
 <p align="left">
   <a href="https://www.instagram.com/chaandharaghav/" target="blank"><img align="center" src="https://github.com/chaandharaghav/chaandharaghav/blob/main/profile-assets/insta.png" alt="Raaghav's instagram" height="40" width="40" /></a> &nbsp;&nbsp;
