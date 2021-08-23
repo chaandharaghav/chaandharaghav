@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/chaandha-raghav-465090194/" target="_blank" > <img src="https://github.com/chaandharaghav/chaandharaghav/blob/master/Git%20Display/Github%20Display%20.png" width="100%"></a>
+<a href="https://www.linkedin.com/in/chaandha-raghav-465090194/" target="_blank" > <img src="https://github.com/chaandharaghav/chaandharaghav/blob/master/profile-assets/banner.png" width="100%"></a>
 #
 
 A junior at  <a href="https://www.bitsathy.ac.in/" target="_blank" >Bannari Amman Institute of Technology</a>, Tamil Nadu, pursuing bachelor’s degree in Computer Science and Business Systems.
@@ -35,7 +35,6 @@ A junior at  <a href="https://www.bitsathy.ac.in/" target="_blank" >Bannari Amma
   <ul>
     <br>
     <li><a href="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/Certificates/Agela%20Yu%20IOS%20Development%20Online%20Bootcamp.pdf" target="_blank" > iOS & Swift - The Complete iOS App Development Bootcamp</a></li>
-
     <li>🔜</li>
   </ul>
 </details>
@@ -44,7 +43,7 @@ A junior at  <a href="https://www.bitsathy.ac.in/" target="_blank" >Bannari Amma
 **Languages and Frameworks:**
 <p align="left">
 
-    <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="CPP" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="CPP" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="HTML" width="40" height="40" /></code>&nbsp;
 
