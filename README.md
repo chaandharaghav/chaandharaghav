@@ -48,7 +48,7 @@ A junior at  <a href="https://www.bitsathy.ac.in/" target="_blank" >Bannari Amma
   <code><img src="https://github.com/chaandharaghav/chaandharaghav/blob/main/profile-assets/css.png" alt="CSS" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/chaandharaghav/chaandharaghav/blob/main/profile-assets/html.png" alt="HTML" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/chaandharaghav/chaandharaghav/blob/main/profile-assets/cpp.png" alt="CPP" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/chaandharaghav/chaandharaghav/blob/main/profile-assets/webkit.svg" alt="WEBKIT" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/chaandharaghav/chaandharaghav/blob/main/profile-assets/webpack.png" alt="WEBKIT" width="40" height="40" /></code>&nbsp;
   
 
 </p>
